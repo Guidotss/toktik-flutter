@@ -13,8 +13,4 @@ class VideoPost {
     this.likes = 0, 
     this.views = 0,
   });   
-
-  
-
-
 }
